@@ -1,4 +1,4 @@
-# Disease_Prediction_System
+# Abstract
 One of the fastest-growing fields is the health care industry. The medical industries have a huge amount of data set collections about patient details, diagnosis, and medications. To turn these data into useful patterns and to predict coming up trends data mining approaches are used in healthcare industries. This project explores different data mining techniques which are used in the medical field for good decision making. 
 
 # Proposed Work 
